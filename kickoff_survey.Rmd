@@ -5,6 +5,7 @@ output:
     toc: true
     toc_float: true
   html_notebook: default
+  github_document: default
 ---
 
 ```{r knitrsetup}
